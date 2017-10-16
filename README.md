@@ -6,7 +6,7 @@
 
 # 2. C++  
 
-+  [c++](https://github.com/xuelangZF/CS_Offer/tree/master/C%2B%2B)  
++  [xuelangZF/CS_Offer/c++](https://github.com/xuelangZF/CS_Offer/tree/master/C%2B%2B)  
 
 
 # 3.vimrc  
