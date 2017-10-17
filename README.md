@@ -7,6 +7,7 @@
 # 2. C++  
 
 +  [xuelangZF/CS_Offer/c++](https://github.com/xuelangZF/CS_Offer/tree/master/C%2B%2B)  
++  [gdb调试c++程序](https://deepzz.com/post/gdb-debug.html)  
 
 
 # 3.vimrc  
