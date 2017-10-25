@@ -12,7 +12,7 @@
 
 # 3.vimrc  
 + [vimrc config](http://www.cnblogs.com/ma6174/archive/2011/12/10/2283393.html)  
-
++ [amix_vimrc](https://github.com/amix/vimrc)   
 
 
 
