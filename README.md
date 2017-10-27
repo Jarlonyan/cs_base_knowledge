@@ -10,9 +10,12 @@
 +  [gdb调试c++程序](https://deepzz.com/post/gdb-debug.html)  
 +  [c++多线程](https://github.com/forhappy/Cplusplus-Concurrency-In-Practice/blob/master/Table-of-contents.md)  
 
-# 3.vimrc  
+# 3. vimrc  
 + [vimrc config](http://www.cnblogs.com/ma6174/archive/2011/12/10/2283393.html)  
 + [amix_vimrc](https://github.com/amix/vimrc)   
 
 
+# 4. git  
+
++  [git命令清单--阮一峰](http://www.ruanyifeng.com/blog/2015/12/git-cheat-sheet.html)
 
