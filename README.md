@@ -16,6 +16,7 @@
 
 
 # 4. git  
-
 +  [git命令清单--阮一峰](http://www.ruanyifeng.com/blog/2015/12/git-cheat-sheet.html)
 
+# 5. python  
++ [python各种模块学习](http://blog.csdn.net/weiwangchao_/article/details/70570508)  
