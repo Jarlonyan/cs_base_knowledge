@@ -15,6 +15,10 @@
 +  [c++多线程](https://github.com/forhappy/Cplusplus-Concurrency-In-Practice/blob/master/Table-of-contents.md)  
 
 
+# 2. 基础算法  
+
++  [各种排序算法](http://yansu.org/2015/09/07/sort-algorithms.html)  
+
 
 # 3. 工具类  
 ## 3.1. vimrc  
