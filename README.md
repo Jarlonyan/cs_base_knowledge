@@ -4,6 +4,7 @@
 ### 1.1. shell编程  
 
 +  [shell编程](http://billie66.github.io/TLCL/book/index.html)  
++  [awk--酷壳](https://coolshell.cn/articles/9070.html)  
 
 ### 1.2. python  
 + [python各种模块学习](http://blog.csdn.net/weiwangchao_/article/details/70570508)  
