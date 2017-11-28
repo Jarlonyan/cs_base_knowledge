@@ -15,6 +15,10 @@
 +  [gdb调试c++程序](https://deepzz.com/post/gdb-debug.html)  
 +  [c++多线程](https://github.com/forhappy/Cplusplus-Concurrency-In-Practice/blob/master/Table-of-contents.md)  
 
+### 1.4 Hadoop Streaming
++  [Hadoop streaming 实现两个表的左连接](http://www.crazyant.net/1112.html)
+
+
 
 # 2. 基础算法  
 
